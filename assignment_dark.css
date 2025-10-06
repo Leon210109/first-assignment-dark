@@ -258,8 +258,8 @@ a:hover {
         max-width: 100%;
     }
       .navbar::before {
-        width: 80px;
-        height: 80px;
+        width: 110px;
+        height: 110px;
         right: 10px;
         left: auto;
         transform: translate(-25%, -50%);
